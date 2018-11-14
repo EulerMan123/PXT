@@ -1,0 +1,10 @@
+C:\Users\AERO UAV\source\repos\PXT\PXT\bin\Debug\PXT.exe.config
+C:\Users\AERO UAV\source\repos\PXT\PXT\bin\Debug\PXT.exe
+C:\Users\AERO UAV\source\repos\PXT\PXT\bin\Debug\PXT.pdb
+C:\Users\AERO UAV\source\repos\PXT\PXT\obj\Debug\PXT.Form1.resources
+C:\Users\AERO UAV\source\repos\PXT\PXT\obj\Debug\PXT.Properties.Resources.resources
+C:\Users\AERO UAV\source\repos\PXT\PXT\obj\Debug\PXT.csproj.GenerateResource.cache
+C:\Users\AERO UAV\source\repos\PXT\PXT\obj\Debug\PXT.csproj.CoreCompileInputs.cache
+C:\Users\AERO UAV\source\repos\PXT\PXT\obj\Debug\PXT.exe
+C:\Users\AERO UAV\source\repos\PXT\PXT\obj\Debug\PXT.pdb
+C:\Users\AERO UAV\source\repos\PXT\PXT\obj\Debug\PXT.csprojAssemblyReference.cache

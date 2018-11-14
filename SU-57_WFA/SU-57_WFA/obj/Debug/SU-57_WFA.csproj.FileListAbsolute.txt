@@ -1,0 +1,10 @@
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\bin\Debug\SU-57_WFA.exe.config
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\bin\Debug\SU-57_WFA.exe
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\bin\Debug\SU-57_WFA.pdb
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\obj\Debug\SU_57_WFA.Form1.resources
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\obj\Debug\SU_57_WFA.Properties.Resources.resources
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\obj\Debug\SU-57_WFA.csproj.GenerateResource.cache
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\obj\Debug\SU-57_WFA.csproj.CoreCompileInputs.cache
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\obj\Debug\SU-57_WFA.exe
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\obj\Debug\SU-57_WFA.pdb
+C:\Users\AERO UAV\source\repos\SU-57_WFA\SU-57_WFA\obj\Debug\SU-57_WFA.csprojAssemblyReference.cache
